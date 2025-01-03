@@ -11,7 +11,7 @@ This project is a simple Express.js API that allows users to manage products, in
 
 - [**API Domain**](#api-domain)  
   The base URL for accessing the API:  
-  `https://product-service-96c8st67p-mearn-projects.vercel.app/`
+  `https://product-service-f92omfl9b-mearn-projects.vercel.app/`
 
 - [**API Endpoints**](#api-endpoints)  
   A list of available API endpoints and their functionality:  
