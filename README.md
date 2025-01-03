@@ -16,7 +16,16 @@ This project is a simple Express.js API that allows users to manage products, in
 - [**API Endpoints**](#api-endpoints)  
   A list of available API endpoints and their functionality:  
   - **[POST /api/product](#post-api/product)**:  
-    Adds a new api/product to the database.  
+    Adds a new api/product to the database, 
+    Demo :
+    ```json
+    {
+     "title": "Sports Bottle 10",
+    "description": "Stay hydrated during workouts",
+    "price": 20,
+    "stock": 100,
+    "category": "Fitness"
+    }
   - **[GET /api/product](#get-all-products)**:  
     Retrieves a list of all products available in the database.  
   - **[GET /api/product/:category](#get-products-by-category)**:  
